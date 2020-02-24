@@ -1,0 +1,7 @@
+---
+user_mail:  alpersaidsoylu@yandex.com
+receivers_path: Test Mail.xlsx
+attachments_path:   Test
+subject:    Toplantı
+template_path:  New Template.html
+

@@ -1,1 +1,4 @@
 openpyxl
+munch
+premailer
+lxml
